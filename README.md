@@ -1,3 +1,5 @@
+<img src="IMG_20210119_123443.jpg" width="20%" height="auto">
+
 # Laura Bécognée
 
 _Développeuse d'applications et de sites web à la plume volontaire, basée à Angers, France_ <br>
