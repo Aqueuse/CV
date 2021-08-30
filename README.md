@@ -13,7 +13,7 @@ _Développeuse d'applications et de sites web à la plume volontaire, basée à 
 **Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_
 
 Création d'un site internet de type CMS
-  - développement progressif avec mise en ligne régulière des fonctionnalités.
+  -  Développement progressif avec mise en ligne régulière des fonctionnalités.
   -  Migration du site vers un framework Python (Flask+Jinja2)
   -  Administration du serveur (Linux) et du réseau
   -  Gestion des relations client
@@ -37,7 +37,7 @@ Participation à des projets artistiques électroniques et informatiques.
 Développement d'une application Web pour la programmation de posts sur les réseaux sociaux
   - Développé avec Cubi Framework
   - Création d'une inteface utilisateur responsive
-  - interfacage avec l'API de Facebook/Instagram et de Twitter
+  - Interfacage avec l'API de Facebook/Instagram et de Twitter
 
 
 **Cubi Web Framework** / Developpé [**[ici]**](https://github.com/Aqueuse/Cubi) _(Jui 2021 - maintenant)_
@@ -76,7 +76,7 @@ Création d'une application Desktop en Java
 
 **Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_
 
-Création d'un plateformeur vertical avec Dyn4J
+Création d'un plateformeur vertical avec [Dyn4J](https://github.com/dyn4j/dyn4j)
 <br>
 
 ## 🗞 Journalisme Technique
@@ -96,8 +96,8 @@ Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GN
   - _Prise en main de GHDL, le simulateur VHDL GNU (50% Guidon, 50% Bécognée)_ @ Editions Diamond / GLMF127 (avr. 2010)
   - _Le VHDL pour les débutants_ @ Editions Diamond / LMHS47 (mars 2010)
   - _Installation guidée de trois distributions GNU/Linux (4/4)_ @ Editions Diamond / LP50 ct. 2008)
-  - _installation guidée de trois distributions GNU/Linux (2/4)_ @ Editions Diamond / LP48 (juin 2008)
   - _Installation guidée de trois distributions GNU/Linux (3/4)_ @ Editions Diamond / LP48 (juin 2008)
+  - _installation guidée de trois distributions GNU/Linux (2/4)_ @ Editions Diamond / LP48 (juin 2008)
   - _Installation guidée de trois distributions GNU/Linux (1/4)_ @ Editions Diamond / LP47 (mai 2008)
 
   
@@ -105,8 +105,8 @@ Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GN
 
 ## 💬 Languages
 
-**French**: Natal <br>
-**English**<br><br>
+**French**: natal <br>
+**English**: écrit courant<br><br>
 
 ## 👩🏼‍🎓 Formations
 
