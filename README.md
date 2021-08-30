@@ -15,7 +15,7 @@ Création d'un site internet de type CMS
   -  Migration du site vers un framework Python (Flask+Jinja2)
   -  Administration du serveur (Linux) et du réseau
   -  Gestion des relations client
-  -  **Technologies utilisées :** NodeJS, Express, Python, Flask, CSS, Jinja2
+  -  **Technologies utilisées :** NodeJS, Express, MongoDB, Python, Flask, CSS, Jinja2
 
 <br>
 
@@ -27,10 +27,36 @@ Participation à des projets artistiques électroniques et informatiques.
   - soudure de composants électroniques
   - réparation de matériel informatique
   -  **Technologies utilisées :** JavaScript, HTML, CSS, MYSQL, BASH
-<br><br>
+
+<br>
     
 ## 🚀 Réalisations en Freelance
 
+**Cubi Web Framework** / Developpé [ici](https://github.com/Aqueuse/Cubi) _(Jul 2021 - Now)_
+Développement d'un framework web basé sur Flask+MongoDB, avec une inspiration Django
+  - CLI pour la génération de projets
+  - librairie d'accès à la base de donnée
+  - Page d'administration pour la gestion du NoSQL
+  -  **Technologies utilisées :** Flask, Python, MongoDB, JavaScript
+
+
+**Poséidon Majordome** / Developpé [ici](https://github.com/Aqueuse/PoseidonMajordome) _(Dec. 2021 - Now)_
+Développement d'une Progressive Web Application
+  - création d'une interface en HTML/CSS/JS
+  - Intégration de Blockly et de l'éditeur ACE
+  - développement d'un backup Flask + MongoDB
+  -  **Technologies utilisées :** CherryPy, HTML, CSS, MongoDB, Flask
+
+
+**Crafting level Up** _(Jan. 2018 - Déc. 2020)_
+  - Apprentissage/pratique de la maroquinerie
+  - Apprentissage/pratique du travail textile (tricot, tissage, couture, crochet)
+  - Apprentissage/pratique de la menuiserie manuelle
+
+**Développement d'un jeu vidéo en Java** _(Jun. 2020 - Sept. 2020)_
+  Création d'un plateformeur vertical avec Dyn4J
+
+<br>
 
 ## 🗞 Journalisme Technique
 
@@ -53,15 +79,8 @@ Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GN
   - _Installation guidée de trois distributions GNU/Linux (3/4)_ @ Editions Diamond / LP48 (juin 2008)
   - _Installation guidée de trois distributions GNU/Linux (1/4)_ @ Editions Diamond / LP47 (mai 2008)
 
-## 📌 On The Side
   
-**Crafting level Up** _(Jan. 2018 - Déc. 2020)_
-  - Apprentissage de la maroquinerie
-  - Apprentissage du travail textile (tricot, tissage, couture, crochet)
-  - Apprentissage de la menuiserie manuelle
-
-**Développement d'un jeu vidéo en Java**
-  Création d'un plateformeur vertical avec Dyn4J
+  <br>
 
 ## 💬 Languages
 
