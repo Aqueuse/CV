@@ -10,7 +10,7 @@ _Développeuse d'applications et de sites web à la plume volontaire, basée à 
 
 ## 💻 Expériences Techniques
 
-**Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_ , Bamako, Mali 
+**Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_
 
 Création d'un site internet de type CMS
   - développement progressif avec mise en ligne régulière des fonctionnalités.
@@ -32,7 +32,7 @@ Participation à des projets artistiques électroniques et informatiques.
     
 ## 🚀 Réalisations en Freelance
 
-**Application de multi social Sharing** / Developpé [ici](https://github.com/Aqueuse/multipass-social-sharing) _(Aout 2021 - maintenant)_
+**multipass social Sharing** / Developpé [**[ici]**](https://github.com/Aqueuse/multipass-social-sharing) _( 2021 - maintenant)_
 
 Développement d'une application Web pour la programmation de posts sur les réseaux sociaux
   - Développé avec Cubi Framework
@@ -40,7 +40,7 @@ Développement d'une application Web pour la programmation de posts sur les rés
   - interfacage avec l'API de Facebook/Instagram et de Twitter
 
 
-**Cubi Web Framework** / Developpé [ici](https://github.com/Aqueuse/Cubi) _(Jui 2021 - maintenant)_
+**Cubi Web Framework** / Developpé [**[ici]**](https://github.com/Aqueuse/Cubi) _(Jui 2021 - maintenant)_
 
 Développement d'un framework web basé sur Flask + MongoDB, avec une inspiration Django
   - Création CLI pour la génération de projets
@@ -49,7 +49,7 @@ Développement d'un framework web basé sur Flask + MongoDB, avec une inspiratio
   -  **Technologies utilisées :** Flask, Python, MongoDB, JavaScript
 
 
-**Poséidon Majordome** / Developpé [ici](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
+**Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
 
 Développement d'une Progressive Web Application
   - Création d'une interface en HTML/CSS/JS
@@ -58,7 +58,7 @@ Développement d'une Progressive Web Application
   -  **Technologies utilisées :** CherryPy, HTML, CSS, MongoDB, Flask
 
 
-**Neko Desktop Application** / Dépôt [ici](https://github.com/Aqueuse/NekoV2) _(Mai 2021)_
+**Neko Desktop Application** / Dépôt [**[ici]**](https://github.com/Aqueuse/NekoV2) _(Mai 2021)_
 
 Création d'une application Desktop en Java 
   - Création d'une boucle d'animation
@@ -74,7 +74,7 @@ Création d'une application Desktop en Java
   - Apprentissage/pratique de la menuiserie manuelle
 
 
-**Développement d'un jeu vidéo en Java** _(Juin. 2020 - Sept. 2020)_
+**Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_
 
 Création d'un plateformeur vertical avec Dyn4J
 <br>
