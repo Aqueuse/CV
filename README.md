@@ -6,6 +6,8 @@ _Développeuse d'applications et de sites web à la plume volontaire, basée à 
 
 [Email](mailto:jaimaille@gmail.com) / [Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
 
+<br>
+
 ## 💻 Expériences Techniques
 
 **Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - Actuel)_ , Bamako, Mali 
