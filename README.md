@@ -2,7 +2,7 @@
 
 _Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:jaimaille@gmail.com) / [Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
 
 ## 👩🏼‍💻 Technical Experience
 
