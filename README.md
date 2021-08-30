@@ -7,11 +7,11 @@ _Software engineer (and sometimes still a journalist) based in Berlin, Germany_ 
 ## 👩🏼‍💻 Technical Experience
 
 **Stagiaire Electronicienne** @ [YGDES - Pantin](http://ygdes.com/) _(Juin 2007 - Juin 2011)_ <br>
-  - Participation à des projets artistiques électroniques et informatiques
+Participation à des projets artistiques électroniques et informatiques.
   - création de sites internet
-  - administration de systèmes GNU/Linux 
-  - soudure de composants électroniques 
-  - réparation de matériel informatique 
+  - administration de systèmes GNU/Linux
+  - soudure de composants électroniques
+  - réparation de matériel informatique
 <br><br>
 
 **Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
