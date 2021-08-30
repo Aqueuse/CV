@@ -83,4 +83,4 @@ Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GN
   - Créer un Minimum Viable Product 
   - Présenter un projet devant des investisseurs.
 
-**DAEU B - MATHÉMATIQUE ET BIOLOGIE** @ Université D'Angers _(Juin 2011)_ 
+**DAEU B - MATHÉMATIQUES ET BIOLOGIE** @ Université D'Angers _(Juin 2011)_ 
