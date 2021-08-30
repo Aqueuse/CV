@@ -16,36 +16,50 @@ Création d'un site internet de type CMS
   -  Administration du serveur (Linux) et du réseau
   -  Gestion des relations client
   -  **Technologies utilisées :** NodeJS, Express, MongoDB, Python, Flask, CSS, Jinja2
-
 <br>
 
 **Stagiaire Electronicienne** @ [YGDES](http://ygdes.com/) _(Juin 2007 - Juin 2011)_ <br>
 
 Participation à des projets artistiques électroniques et informatiques.
-  - création de sites internet
-  - administration de systèmes GNU/Linux
-  - soudure de composants électroniques
-  - réparation de matériel informatique
+  - Création de sites internet
+  - Administration de systèmes GNU/Linux
+  - Soudure de composants électroniques
+  - Réparation de matériel informatique
   -  **Technologies utilisées :** JavaScript, HTML, CSS, MYSQL, BASH
-
 <br>
     
 ## 🚀 Réalisations en Freelance
 
+**Application de multi social Sharing** / Developpé [ici](https://github.com/Aqueuse/multipass-social-sharing) _(Aug 2021 - Now)_
+Développement d'une application Web pour la programmation de posts sur les réseaux sociaux
+  - Développé avec Cubi Framework
+  - Création d'une inteface utilisateur responsive
+  - interfacage avec l'API de Facebook/Instagram et de Twitter
+
+
 **Cubi Web Framework** / Developpé [ici](https://github.com/Aqueuse/Cubi) _(Jul 2021 - Now)_
-Développement d'un framework web basé sur Flask+MongoDB, avec une inspiration Django
-  - CLI pour la génération de projets
-  - librairie d'accès à la base de donnée
+Développement d'un framework web basé sur Flask + MongoDB, avec une inspiration Django
+  - Création CLI pour la génération de projets
+  - Librairie d'accès à la base de donnée
   - Page d'administration pour la gestion du NoSQL
   -  **Technologies utilisées :** Flask, Python, MongoDB, JavaScript
 
 
 **Poséidon Majordome** / Developpé [ici](https://github.com/Aqueuse/PoseidonMajordome) _(Dec. 2021 - Now)_
 Développement d'une Progressive Web Application
-  - création d'une interface en HTML/CSS/JS
+  - Création d'une interface en HTML/CSS/JS
   - Intégration de Blockly et de l'éditeur ACE
-  - développement d'un backup Flask + MongoDB
+  - Développement d'un backup Flask + MongoDB
   -  **Technologies utilisées :** CherryPy, HTML, CSS, MongoDB, Flask
+
+
+**Neko Desktop Application** / Dépôt [ici](https://github.com/Aqueuse/NekoV2) _(May 2021)_
+Création d'une application Desktop en Java 
+  - Création d'une boucle d'animation
+  - Intégration d'un system Tray icon dynamique
+  - Ajout de plusieurs modes (Catch a toy, Sleep to the basket)
+  - Intégration à Twitch via un websocket
+  -  **Technologies utilisées :** Java, Swing, JavaScript
 
 
 **Crafting level Up** _(Jan. 2018 - Déc. 2020)_
@@ -53,9 +67,9 @@ Développement d'une Progressive Web Application
   - Apprentissage/pratique du travail textile (tricot, tissage, couture, crochet)
   - Apprentissage/pratique de la menuiserie manuelle
 
+
 **Développement d'un jeu vidéo en Java** _(Jun. 2020 - Sept. 2020)_
   Création d'un plateformeur vertical avec Dyn4J
-
 <br>
 
 ## 🗞 Journalisme Technique
