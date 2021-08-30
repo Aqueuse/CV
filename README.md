@@ -33,6 +33,7 @@ Participation à des projets artistiques électroniques et informatiques.
 ## 🚀 Réalisations en Freelance
 
 **Application de multi social Sharing** / Developpé [ici](https://github.com/Aqueuse/multipass-social-sharing) _(Aout 2021 - maintenant)_
+
 Développement d'une application Web pour la programmation de posts sur les réseaux sociaux
   - Développé avec Cubi Framework
   - Création d'une inteface utilisateur responsive
@@ -40,6 +41,7 @@ Développement d'une application Web pour la programmation de posts sur les rés
 
 
 **Cubi Web Framework** / Developpé [ici](https://github.com/Aqueuse/Cubi) _(Jui 2021 - maintenant)_
+
 Développement d'un framework web basé sur Flask + MongoDB, avec une inspiration Django
   - Création CLI pour la génération de projets
   - Librairie d'accès à la base de donnée
@@ -48,6 +50,7 @@ Développement d'un framework web basé sur Flask + MongoDB, avec une inspiratio
 
 
 **Poséidon Majordome** / Developpé [ici](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
+
 Développement d'une Progressive Web Application
   - Création d'une interface en HTML/CSS/JS
   - Intégration de Blockly et de l'éditeur ACE
@@ -56,6 +59,7 @@ Développement d'une Progressive Web Application
 
 
 **Neko Desktop Application** / Dépôt [ici](https://github.com/Aqueuse/NekoV2) _(Mai 2021)_
+
 Création d'une application Desktop en Java 
   - Création d'une boucle d'animation
   - Intégration d'un system Tray icon dynamique
@@ -71,7 +75,8 @@ Création d'une application Desktop en Java
 
 
 **Développement d'un jeu vidéo en Java** _(Juin. 2020 - Sept. 2020)_
-  Création d'un plateformeur vertical avec Dyn4J
+
+Création d'un plateformeur vertical avec Dyn4J
 <br>
 
 ## 🗞 Journalisme Technique
