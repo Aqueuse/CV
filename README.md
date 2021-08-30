@@ -15,6 +15,8 @@ Création d'un site internet de type CMS
   -  Gestion des relations client
   -  **Technologies utilisées :** NodeJS, Express, Python, Flask, CSS, Jinja2
 
+<br>
+
 **Stagiaire Electronicienne** @ [YGDES](http://ygdes.com/) _(Juin 2007 - Juin 2011)_ <br>
 
 Participation à des projets artistiques électroniques et informatiques.
@@ -29,9 +31,6 @@ Participation à des projets artistiques électroniques et informatiques.
 
 
 ## 🗞 Journalisme Technique
-
-_Cette section présente mes réalisations (publications, traductions) dans le domaine technique_
-<br><br>
 
 Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GNU/Linux et l'électronique numérique. 
 
