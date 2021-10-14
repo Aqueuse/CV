@@ -4,7 +4,11 @@
 
 _Développeuse d'applications et de sites web à la plume volontaire, basée à Angers, France_ <br>
 
-[Email](mailto:jaimaille@gmail.com) / [Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
+jaimaille@gmail.com ✉
+
+0768951201 📞
+
+[Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
 
 <br>
 
