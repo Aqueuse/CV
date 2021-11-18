@@ -14,6 +14,17 @@ jaimaille@gmail.com ✉
 
 ## 💻 Expériences Techniques
 
+**Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_
+
+Création d'un plugin pour Minecraft avec Spigot
+  - Apprentissage de Spigot et Bukkit
+  - Création et maintenance d'un serveur de jeu
+  - Création et optimisation d'une routine de test
+  - Publication sur SpigotMC et github
+  -  **Technologies utilisées :** Java, Spigot, Bukkit
+<br>
+
+
 **Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_
 
 Création d'un site internet de type CMS
