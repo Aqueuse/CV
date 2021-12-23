@@ -14,6 +14,16 @@ jaimaille@gmail.com ✉
 
 ## 💻 Expériences Techniques
 
+✒️ **Refactorisation d'une documentation** @ [Marv](https://github.com/skarab42/marv-site) _(Juin 2021)_
+   - Relecture, 
+   - amélioration et 
+   - étoffage de la documentation d'un logiciel de streaming.
+<br>
+
+✒️ **Traduction d'un livre sur l'impression 3D** @ [Eyrolles](https://www.eyrolles.com/) (Mars 2013)
+   => _Imprimer en 3D avec la Makerbot_
+<br>
+
 **Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_
 
 Création d'un plugin pour Minecraft avec Spigot
