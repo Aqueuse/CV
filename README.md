@@ -71,21 +71,13 @@ Développement d'une application Web pour la programmation de posts sur les rés
   - Interfacage avec l'API de Facebook/Instagram et de Twitter
 
 
-**Cubi Web Framework** / Developpé [**[ici]**](https://github.com/Aqueuse/Cubi) _(Jui 2021 - maintenant)_
-
-Développement d'un framework web basé sur Flask + MongoDB, avec une inspiration Django
-  - Création CLI pour la génération de projets
-  - Librairie d'accès à la base de donnée
-  - Page d'administration pour la gestion du NoSQL
-  -  **Technologies utilisées :** Flask, Python, MongoDB, JavaScript
-
-
 **Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
 
 Développement d'une Progressive Web Application
   - Création d'une interface en HTML/CSS/JS
   - Intégration de Blockly et de l'éditeur ACE
   - Développement d'un backup Flask + MongoDB
+  - migration vers JavaFX
   -  **Technologies utilisées :** CherryPy, HTML, CSS, MongoDB, Flask
 
 
