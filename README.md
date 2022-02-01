@@ -14,6 +14,12 @@ jaimaille@gmail.com ✉
 
 ## 💻 Expériences Techniques
 
+✒️ **Création d'une documentation (janvier 2022)
+   - Création d'une documentation pour un projet personnel avec
+  - **technologies utilisées** : FrameMaker et DITA XML
+    => https://github.com/Aqueuse/NekoManualDitaXML
+<br>
+
 ✒️ **Refactorisation d'une documentation** @ [Marv](https://github.com/skarab42/marv-site) _(Juin 2021)_
    - Relecture, 
    - amélioration et 
@@ -134,6 +140,14 @@ Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GN
 **English**: écrit courant<br><br>
 
 ## 👩🏼‍🎓 Formations
+
+**Technical writing : how to write using DITA XML** @ Udemy _(janvier 2022)_
+   - Learn to write using DITA XML topics and maps
+   - Produce documentation deliverables using Oxygen XML Author tool
+   - Reuse on maps level (mapref), topic level (topicref), topic element level (conref) and table rows (conref - conrefend)
+   - Personalized user guides based on the same DITA content using profiling (conditioning) of content
+   - Create interactive images and create image maps
+   - How to configure and customize your DITA HTML output
 
 **Formation DJANGO** @ macadomia _(Juin. 2021)_
   - Comprendre l'architecture MVT de Django
