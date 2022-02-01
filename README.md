@@ -64,14 +64,6 @@ Participation à des projets artistiques électroniques et informatiques.
     
 ## 🚀 Réalisations en Freelance
 
-**multipass social Sharing** / Developpé [**[ici]**](https://github.com/Aqueuse/multipass-social-sharing) _( 2021 - maintenant)_
-
-Développement d'une application Web pour la programmation de posts sur les réseaux sociaux
-  - Développé avec Cubi Framework
-  - Création d'une inteface utilisateur responsive
-  - Interfacage avec l'API de Facebook/Instagram et de Twitter
-
-
 **Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
 
 Développement d'une Progressive Web Application
@@ -92,15 +84,25 @@ Création d'une application Desktop en Java
   -  **Technologies utilisées :** Java, Swing, JavaScript
 
 
-**Crafting level Up** _(Jan. 2018 - Déc. 2020)_
-  - Apprentissage/pratique de la maroquinerie
-  - Apprentissage/pratique du travail textile (tricot, tissage, couture, crochet)
-  - Apprentissage/pratique de la menuiserie manuelle
+**API CloudWords Pole Emploi** @ [Pôle Emploi](https://github.com/Aqueuse/API-cloudWords-PoleEmploi) _(Dec. 2020)_
+Création d'une application en Java/R
+  - Interfaçage avec l'API de pole emploi
+  - Représentation des données avec plot en R
+  - Création d'une application web permettant d'automatiser les recherches
+  - **Technologies utilisées :** Java, R, PostMan
+
 
 
 **Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_
 
 Création d'un plateformeur vertical avec [Dyn4J](https://github.com/dyn4j/dyn4j)
+
+
+**Crafting level Up** _(Jan. 2018 - Déc. 2020)_
+  - Apprentissage/pratique de la maroquinerie
+  - Apprentissage/pratique du travail textile (tricot, tissage, couture, crochet)
+  - Apprentissage/pratique de la menuiserie manuelle
+
 <br>
 
 ## 🗞 Journalisme Technique
