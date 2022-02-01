@@ -14,16 +14,17 @@ jaimaille@gmail.com ✉
 
 ## 💻 Expériences Techniques
 
-✒️ **Création d'une documentation (janvier 2022)
-   - Création d'une documentation pour un Neko
-  - **technologies utilisées** : FrameMaker et DITA XML
-    => https://github.com/Aqueuse/NekoManualDitaXML
+✒️ **Création d'une documentation** @ [Neko](https://github.com/Aqueuse/NekoManualDitaXML) _(janvier 2022)_
+   - création d'un manuel utilisateur
+   - création d'une documentation pour les classes et méthodes
+  - **Technologies utilisées** : FrameMaker et DITA XML
 <br>
 
 ✒️ **Refactorisation d'une documentation** @ [Marv](https://github.com/skarab42/marv-site) _(Juin 2021)_
    - Relecture, 
    - amélioration et 
    - étoffage de la documentation d'un logiciel de streaming.
+   -  **Technologies utilisées** : MarkDown 
 <br>
 
 ✒️ **Traduction d'un livre sur l'impression 3D** @ [Eyrolles](https://www.eyrolles.com/) (Mars 2013)
