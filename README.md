@@ -15,7 +15,7 @@ jaimaille@gmail.com ✉
 ## 💻 Expériences Techniques
 
 ✒️ **Création d'une documentation (janvier 2022)
-   - Création d'une documentation pour un projet personnel avec
+   - Création d'une documentation pour un Neko
   - **technologies utilisées** : FrameMaker et DITA XML
     => https://github.com/Aqueuse/NekoManualDitaXML
 <br>
