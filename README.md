@@ -27,8 +27,11 @@ jaimaille@gmail.com ✉
    -  **Technologies utilisées** : MarkDown 
 <br>
 
-✒️ **Traduction d'un livre sur l'impression 3D** @ [Eyrolles](https://www.eyrolles.com/) (Mars 2013)
-   => _Imprimer en 3D avec la Makerbot_
+✒️ **Traduction d'un livre sur l'impression 3D** @ [Eyrolles](https://www.eyrolles.com/) _(Mars 2013)_
+   - traduction,
+   - relecture,
+   - correction
+   - disponible ici : [Imprimer en 3D avec la Makerbot](https://www.eyrolles.com/Informatique/Livre/imprimer-en-3d-avec-la-makerbot-9782212137484/)
 <br>
 
 **Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_
