@@ -60,7 +60,7 @@ Création d'une application Desktop en Java
   - Intégration d'un system Tray icon dynamique
   - Ajout de plusieurs modes (Catch a toy, Sleep to the basket)
   - Intégration à Twitch via un websocket
-  -  **Technologies utilisées :** Java, Swing, JavaScript
+  -  **Technologies utilisées :** Java, Swing, WebSocket.io
 <br>
 
 
