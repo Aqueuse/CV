@@ -15,7 +15,7 @@ jaimaille@gmail.com ✉
 ## 🚀 Réalisations en Freelance
 
 
-**Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_
+**Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_<br>
 Création d'un plugin pour Minecraft avec Spigot
   - Apprentissage de Spigot et Bukkit
   - Création et maintenance d'un serveur de jeu
@@ -25,7 +25,7 @@ Création d'un plugin pour Minecraft avec Spigot
 <br>
 
 
-**Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_
+**Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_<br>
 Création d'un site internet de type CMS
   -  Développement progressif avec mise en ligne régulière des fonctionnalités
   -  Migration du site vers un framework Python (Flask+Jinja2)
@@ -44,7 +44,7 @@ Participation à des projets artistiques électroniques et informatiques.
 <br>
     
 
-**Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
+**Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_<br>
 Développement d'une Progressive Web Application
   - Création d'une interface en HTML/CSS/JS
   - Intégration de Blockly et de l'éditeur ACE
@@ -54,7 +54,7 @@ Développement d'une Progressive Web Application
 <br>
 
 
-**Neko Desktop Application** / Dépôt [**[ici]**](https://github.com/Aqueuse/NekoV2) _(Mai 2021)_
+**Neko Desktop Application** / Dépôt [**[ici]**](https://github.com/Aqueuse/NekoV2) _(Mai 2021)_<br>
 Création d'une application Desktop en Java 
   - Création d'une boucle d'animation
   - Intégration d'un system Tray icon dynamique
@@ -64,17 +64,18 @@ Création d'une application Desktop en Java
 <br>
 
 
-**API CloudWords Pole Emploi** @ [Pôle Emploi](https://github.com/Aqueuse/API-cloudWords-PoleEmploi) _(Dec. 2020)_
+**API CloudWords Pole Emploi** @ [Pôle Emploi](https://github.com/Aqueuse/API-cloudWords-PoleEmploi) _(Dec. 2020)_<br>
 Création d'une application en Java/R
   - Interfaçage avec l'API de pole emploi
   - Représentation des données avec plot en R
   - Création d'une application web permettant d'automatiser les recherches
-  - **Technologies utilisées :** Java, R, PostMan
+  - **Technologies utilisées :** Java, R, Selenium, Postman
 <br>
 
 
-**Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_
-Création d'un plateformeur vertical avec [Dyn4J](https://github.com/dyn4j/dyn4j)
+**Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_<br>
+  - Création d'un plateformeur vertical
+  - **Technologies utilisées :** Java, [Dyn4J](https://github.com/dyn4j/dyn4j)
 <br>
 
 
