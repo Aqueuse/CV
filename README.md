@@ -8,11 +8,11 @@ jaimaille@gmail.com ✉
 
 0768951201 📞
 
-[Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
+[Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e-98285022b/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
 
 <br>
 
-## 💻 Expériences Techniques
+## 🚀 Réalisations en Freelance
 
 ✒️ **Création d'une documentation** @ [Neko](https://github.com/Aqueuse/NekoManualDitaXML) _(janvier 2022)_
    - création d'un manuel utilisateur
@@ -65,7 +65,6 @@ Participation à des projets artistiques électroniques et informatiques.
   -  **Technologies utilisées :** JavaScript, HTML, CSS, MYSQL, BASH
 <br>
     
-## 🚀 Réalisations en Freelance
 
 **Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_
 
@@ -93,7 +92,6 @@ Création d'une application en Java/R
   - Représentation des données avec plot en R
   - Création d'une application web permettant d'automatiser les recherches
   - **Technologies utilisées :** Java, R, PostMan
-
 
 
 **Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_
