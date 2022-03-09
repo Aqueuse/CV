@@ -14,25 +14,6 @@ jaimaille@gmail.com ✉
 
 ## 🚀 Réalisations en Freelance
 
-✒️ **Création d'une documentation** @ [Neko](https://github.com/Aqueuse/NekoManualDitaXML) _(janvier 2022)_
-   - création d'un manuel utilisateur
-   - création d'une documentation pour les classes et méthodes
-  - **Technologies utilisées** : FrameMaker et DITA XML
-<br>
-
-✒️ **Refactorisation d'une documentation** @ [Marv](https://github.com/skarab42/marv-site) _(Juin 2021)_
-   - Relecture, 
-   - amélioration et 
-   - étoffage de la documentation d'un logiciel de streaming.
-   -  **Technologies utilisées** : MarkDown 
-<br>
-
-✒️ **Traduction d'un livre sur l'impression 3D** @ [Eyrolles](https://www.eyrolles.com/) _(Mars 2013)_
-   - traduction,
-   - relecture,
-   - correction
-   - disponible ici : [Imprimer en 3D avec la Makerbot](https://www.eyrolles.com/Informatique/Livre/imprimer-en-3d-avec-la-makerbot-9782212137484/)
-<br>
 
 **Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_
 
@@ -106,7 +87,27 @@ Création d'un plateformeur vertical avec [Dyn4J](https://github.com/dyn4j/dyn4j
 
 <br>
 
-## 🗞 Journalisme Technique
+## ✒️ Rédaction technique
+
+ **Création d'une documentation** @ [Neko](https://github.com/Aqueuse/NekoManualDitaXML) _(janvier 2022)_
+   - création d'un manuel utilisateur
+   - création d'une documentation pour les classes et méthodes
+  - **Technologies utilisées** : FrameMaker et DITA XML
+<br>
+
+✒️ **Refactorisation d'une documentation** @ [Marv](https://github.com/skarab42/marv-site) _(Juin 2021)_
+   - Relecture, 
+   - amélioration et 
+   - étoffage de la documentation d'un logiciel de streaming.
+   -  **Technologies utilisées** : MarkDown 
+<br>
+
+✒️ **Traduction d'un livre sur l'impression 3D** @ [Eyrolles](https://www.eyrolles.com/) _(Mars 2013)_
+   - traduction,
+   - relecture,
+   - correction
+   - disponible ici : [Imprimer en 3D avec la Makerbot](https://www.eyrolles.com/Informatique/Livre/imprimer-en-3d-avec-la-makerbot-9782212137484/)
+<br>
 
 Rédaction d'articles techniques sur les logiciels Open Source, les systèmes GNU/Linux et l'électronique numérique. 
 
