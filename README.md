@@ -35,7 +35,7 @@ Création d'un site internet de type CMS
 <br>
 
 **Stagiaire Electronicienne** @ [YGDES](http://ygdes.com/) _(Juin 2007 - Juin 2011)_ <br>
-Participation à des projets artistiques électroniques et informatiques.
+Participation à des projets artistiques électroniques et informatiques
   - Création de sites internet
   - Administration de systèmes GNU/Linux
   - Soudure de composants électroniques
@@ -102,7 +102,12 @@ Création d'une application en Java/R
 <br>
 
 
-✒️ **Rédaction d'articles techniques** sur les logiciels Open Source, les systèmes GNU/Linux et l'électronique numérique :
+✒️ **Rédaction d'articles techniques** @ [Diamond Editions](https://boutique.ed-diamond.com/) _(Mai 2008 - Decembre 2018)_
+  - Recherche,
+  - Expérimentations et 
+  - Écriture sur les logiciels Open Source, les systèmes GNU/Linux et l'électronique numérique
+  - 📰 Liste des articles :
+  
     - _Robotique et électrons - mesurer une consommation avec le Rpi_ @ Editions Diamond / H27 (nov. 2018)
     - _Robotique et électrons - mesurer une tension avec le Rpi_ @ Editions Diamond / H24 (mai 2018)
     - _Initiation au JavaScript pour les (vrais) débutants_ @ Editions Diamond / LPHS24 (juin 2012)
