@@ -1,21 +1,30 @@
 # Laura Bécognée
 
-<img src="IMG_20210119_123443.jpg" width="20%" height="auto" align="right">
+<img src="photo_profil_round.png" width="20%" height="auto" align="right">
 
-_Développeuse d'applications et de sites web à la plume volontaire, basée à Angers, France_ <br>
+_Développeuse de jeux vidéos et d'applications à la plume volontaire, basée à Angers, France_ <br>
 
 jaimaille@gmail.com ✉
 
-0768951201 📞
+0669019548 📞
 
-[Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/laura-b%C3%A9cogn%C3%A9e-98285022b/) / [GitHub](https://github.com/Aqueuse) / [Twitch](https://twitch.tv/aqueuse/)
+[Twitch](https://twitch.tv/aqueuse/) / [Website](https://ours-agile.com/) / [LinkedIn](https://www.linkedin.com/in/ours-agile/) / [GitHub](https://github.com/Aqueuse)
 
 <br>
 
 ## 🚀 Réalisations en Freelance
 
+**Développeuse de jeux vidéos** @ [Unity](https://ours-agile.itch.io/banana-man-the-space-monkeys) _(since Avril. 2022)_<br>
+Création d'un jeu vidéo plateformer/gestion
+  - Apprentissage du C# et de Unity
+  - Création et optimisation de meshs sur Blender
+  - Création d'animations sur Cascadeur
+  - Publication sur Steam et itchio
+  -  **Technologies utilisées :** C#, Unity, Rider, Blender, Cascadeur
+<br>
 
-**Développeur de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_<br>
+
+**Développeuse de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_<br>
 Création d'un plugin pour Minecraft avec Spigot
   - Apprentissage de Spigot et Bukkit
   - Création et maintenance d'un serveur de jeu
