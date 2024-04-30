@@ -12,6 +12,13 @@ jaimaille@gmail.com ✉
 
 <br>
 
+## 🛠️ Technologies maitrisées :
+- C#
+- Java
+- Unity
+- Blender
+- Git
+
 ## 🚀 Réalisations en Freelance
 
 **Développeuse de jeux vidéos** @ [Unity](https://ours-agile.itch.io/banana-man-the-space-monkeys) _(since Avril. 2022)_<br>
