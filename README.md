@@ -15,13 +15,26 @@ jaimaille@gmail.com ✉
 ## 🛠️ Technologies maitrisées :
 - C#
 - Java
+- TypeScript
 - Unity
 - Blender
 - Git
 
+## 🔧 Réalisations en Salariat
+
+**Lead Developpeuse** @ Fyz Services - Speachme _(since mai 2024)_ <br>
+  - Création de fonctionnalités pour une application web avec micro services en Java/TypeScript/Kotlin avec VueJS
+    - Discussion des points clés et des contraintes techniques
+    - Mise en place des fonctionnalités
+    - Testing et versionning avec Git
+  - Maintenance corrective sur des sujets allant du frontend au backend
+  - Mise à jour de la documentation
+  - **Technologies utilisées :** Java, Typescript, VueJS, Git 
+<br>
+
 ## 🚀 Réalisations en Freelance
 
-**Développeuse de jeux vidéos** @ [Unity](https://ours-agile.itch.io/banana-man-the-space-monkeys) _(since Avril. 2022)_<br>
+**Développeuse de jeux vidéos** @ [Unity](https://ours-agile.itch.io/banana-man-the-space-monkeys) _(since Avril. 2022)_ <br>
 Création d'un jeu vidéo plateformer/gestion
   - Apprentissage du C# et de Unity
   - Création et optimisation de meshs sur Blender
@@ -31,7 +44,7 @@ Création d'un jeu vidéo plateformer/gestion
 <br>
 
 
-**Développeuse de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_<br>
+**Développeuse de plugin Minecraft** @ [Spigotmc](https://www.spigotmc.org/resources/neverenoughgiftcard.97597/) _(Nov. 2021)_ <br>
 Création d'un plugin pour Minecraft avec Spigot
   - Apprentissage de Spigot et Bukkit
   - Création et maintenance d'un serveur de jeu
@@ -41,7 +54,7 @@ Création d'un plugin pour Minecraft avec Spigot
 <br>
 
 
-**Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_<br>
+**Développeur Web Fullstack** @ [Mehari Consulting](http://mehari-consulting.com) _(Déc. 2020 - maintenant)_ <br>
 Création d'un site internet de type CMS
   -  Développement progressif avec mise en ligne régulière des fonctionnalités
   -  Migration du site vers un framework Python (Flask+Jinja2)
@@ -60,7 +73,7 @@ Participation à des projets artistiques électroniques et informatiques
 <br>
     
 
-**Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_<br>
+**Poséidon Majordome** / Developpé [**[ici]**](https://github.com/Aqueuse/PoseidonMajordome) _(Déc. 2021 - maintenant)_ <br>
 Développement d'une Progressive Web Application
   - Création d'une interface en HTML/CSS/JS
   - Intégration de Blockly et de l'éditeur ACE
@@ -80,7 +93,7 @@ Création d'une application Desktop en Java
 <br>
 
 
-**API CloudWords Pole Emploi** @ [Pôle Emploi](https://github.com/Aqueuse/API-cloudWords-PoleEmploi) _(Dec. 2020)_<br>
+**API CloudWords Pole Emploi** @ [Pôle Emploi](https://github.com/Aqueuse/API-cloudWords-PoleEmploi) _(Dec. 2020)_ <br>
 Création d'une application en Java/R
   - Interfaçage avec l'API de pole emploi
   - Représentation des données avec plot en R
@@ -89,7 +102,7 @@ Création d'une application en Java/R
 <br>
 
 
-**Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_<br>
+**Développement d'un jeu vidéo en Java**  / Dépôt [**[ici]**](https://github.com/Aqueuse/Sky-Above-Prototype) _(Juin. 2020 - Sept. 2020)_ <br>
   - Création d'un plateformeur vertical
   - **Technologies utilisées :** Java, [Dyn4J](https://github.com/dyn4j/dyn4j)
 <br>
