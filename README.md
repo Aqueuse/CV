@@ -22,21 +22,21 @@ jaimaille@gmail.com ✉
 
 ## 🔧 Réalisations en Salariat
 
-**Lead Developpeuse** @ Fyz Services - Speachme _(since mai 2024)_ <br>
+**Developpeuse Java/Vue JS** @ Fyz Services - Speachme _(since mai 2024)_ <br>
   - Création de fonctionnalités pour une application web avec micro services en Java/TypeScript/Kotlin avec VueJS
     - Discussion des points clés et des contraintes techniques
     - Mise en place des fonctionnalités
     - Testing et versionning avec Git
   - Maintenance corrective sur des sujets allant du frontend au backend
   - Mise à jour de la documentation
-  - **Technologies utilisées :** Java, Typescript, VueJS, Git 
+  - **Technologies utilisées :** Java, Typescript, VueJS, Git, docker
 <br>
 
 ## 🚀 Réalisations en Freelance
 
 **Développeuse de jeux vidéos** @ [Unity](https://ours-agile.itch.io/banana-man-the-space-monkeys) _(since Avril. 2022)_ <br>
 Création d'un jeu vidéo plateformer/gestion
-  - Apprentissage du C# et de Unity
+  - Développement en C# sur Unity
   - Création et optimisation de meshs sur Blender
   - Création d'animations sur Cascadeur
   - Publication sur Steam et itchio
