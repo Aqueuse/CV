@@ -16,13 +16,20 @@ jaimaille@gmail.com ✉
 - C#
 - Java
 - TypeScript
+- VueJS
 - Unity
 - Blender
 - Git
 
-## 🔧 Réalisations en Salariat
+**Conseil en développement de jeux vidéo** - Ours Agile _(since septembre 2024)_
+  - Audit de code (architecture, qualité, efficacité de la démarche de développement) et analyse des performances pour des clients développant des jeux vidéo
+  - Conseil en gestion de projet
+  - Revue de la documentation (GDD)
+  - Pair programming
+  - **Technologies utilisées :** C#, Git, Unity
+<br>
 
-**Developpeuse Java/Vue JS** @ Fyz Services - Speachme _(since mai 2024)_ <br>
+**Developpeuse Java/Vue JS** @ Fyz Services - Speachme _(mai 2024 - août 2024)_ <br>
   - Création de fonctionnalités pour une application web avec micro services en Java/TypeScript/Kotlin avec VueJS
     - Discussion des points clés et des contraintes techniques
     - Mise en place des fonctionnalités
@@ -31,8 +38,6 @@ jaimaille@gmail.com ✉
   - Mise à jour de la documentation
   - **Technologies utilisées :** Java, Typescript, VueJS, Git, docker
 <br>
-
-## 🚀 Réalisations en Freelance
 
 **Développeuse de jeux vidéos** @ [Unity](https://ours-agile.itch.io/banana-man-the-space-monkeys) _(since Avril. 2022)_ <br>
 Création d'un jeu vidéo plateformer/gestion
